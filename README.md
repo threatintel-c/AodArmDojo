@@ -1,5 +1,5 @@
 # AodArmDojo
-AodArmDojo is a custom Linux kernel for Qemu to facilitate ARM (supports both Little & Big Endian architectures) IoT emulation &amp; reverse-engineering. To emulate an Arm device that runs any form of Linux, just extract the root file system & pass that as argument for "-sd" option in the "launch.sh/bat" script. 
+AodArmDojo is a customized Linux kernel for Qemu to facilitate ARM (supports both Little & Big Endian architectures) IoT emulation &amp; reverse-engineering. To emulate an Arm device that runs any form of Linux, just extract the root file system & pass that as argument for "-sd" option in the "launch.sh/bat" script. 
 
 AodArmDojo kernel supports following filesystems:
 * reiserfs
